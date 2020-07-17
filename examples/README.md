@@ -30,3 +30,15 @@ Run example code
 ```
 $ python request-confirm-refund.py
 ```
+
+Access this url (no .html needed)
+
+```
+http://localhost:8000/request
+```
+
+or
+
+```
+https://xxxxx.ngrok.io/request
+```
