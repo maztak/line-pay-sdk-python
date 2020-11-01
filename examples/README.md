@@ -6,6 +6,10 @@ Example codes using [Flask](http://flask.pocoo.org/)
 
 ### Setup hostname and API credentials in .env file
 
+```
+$ ngrok http 8000
+```
+
 Rename .env.sample file to .env and input your hostname and LINE Pay API credentials
 
 ```
@@ -29,4 +33,10 @@ Run example code
 
 ```
 $ python request-confirm-refund.py
+```
+
+Access this url (no .html needed)
+
+```
+https://xxxxx.ngrok.io/request
 ```
