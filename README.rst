@@ -50,7 +50,7 @@ Hints
 Examples
 ~~~~~~~~
 
-`Example usage <https://github.com/sumihiro3/line-pay-sdk-python/tree/master/examples>`__
+`Example usage <https://github.com/maztak/line-pay-sdk-python/tree/master/examples>`__
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Example using `Flask <http://flask.pocoo.org/>`__
